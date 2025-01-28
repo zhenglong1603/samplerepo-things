@@ -1,3 +1,4 @@
+FRUITS
 apples
 berries
 cherries
